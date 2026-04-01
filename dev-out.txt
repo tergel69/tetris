@@ -1,0 +1,12 @@
+
+> tetris@0.1.0 dev
+> node scripts/dev-server.mjs
+
+▲ Next.js 16.1.4 (webpack)
+- Local:         http://127.0.0.1:3002
+- Network:       http://127.0.0.1:3002
+- Experiments (use with caution):
+  ✓ workerThreads
+
+✓ Starting...
+✓ Ready in 3.2s
